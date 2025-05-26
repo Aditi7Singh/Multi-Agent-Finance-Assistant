@@ -1,0 +1,27 @@
+./
+├── data_ingestion/
+│   ├── __init__.py
+│   ├── api_fetcher.py
+│   ├── scraper.py
+│   └── document_loader.py
+├── agents/
+│   ├── __init__.py
+│   ├── api_agent.py
+│   ├── scraping_agent.py
+│   ├── retriever_agent.py
+│   ├── analysis_agent.py
+│   ├── language_agent.py
+│   └── voice_agent.py
+├── orchestrator/
+│   ├── __init__.py
+│   └── coordinator.py
+├── streamlit_app/
+│   ├── __init__.py
+│   └── app.py
+├── tests/
+│   └── __init__.py
+├── docs/
+│   └── ai_tool_usage.md
+├── requirements.txt
+├── README.md
+└── Dockerfile
