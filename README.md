@@ -1,4 +1,5 @@
 🧠 Multi-Agent Finance Assistant
+
 An advanced AI-powered finance assistant that delivers spoken daily market briefs via a Streamlit web interface. The system leverages multiple specialized agents to perform real-time data ingestion, financial analysis, document retrieval, and natural language processing — all orchestrated via microservices.
 
 🚀 Features
