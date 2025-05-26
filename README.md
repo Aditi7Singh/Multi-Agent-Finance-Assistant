@@ -36,7 +36,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/multi-agent-finance-assistant.git
+git clone https://github.com/Aditi7Singh/multi-agent-finance-assistant.git
 cd multi-agent-finance-assistant
 Install dependencies
 
